@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import static java.lang.Integer.reverse;
-
 public class Exercicio_3 {
     public static void main(String[] args) {
 
